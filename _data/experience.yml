@@ -2,39 +2,8 @@
   company: GLS
   jobs:
     - title: Data Scientist
-      dates: September 2018 - November 2019
-   description: | # this will include new lines to allow paragraphs
-    - Deep Learning based Forecasting Models, Churn Prediction.
-    - Chat bots and Natural Language Processing.
+      dates: Sep 2018 - Nov 2019
+  description: | # this will include new lines to allow paragraphs
+    - Deep Learning based Forecasting Models, Churn Prediction
+    - Chat bots and Natural Language Processing
     - Integration of a Data Visualization and Reporting with Process Work Flow.
-- layout: left
-  company: Freelance Consultant
-  link: https://www.freelancer.com/u/shivampanchal
-  jobs:
-    - title: Data Scientist
-      dates: July 2018 - November 2019
-  description: | # this will include new lines to allow paragraphs
-    - Recieved Award for Excellence in Course Assistantship
-    - Teaching Assistant for the course "Applied Data Science"
-    - Course focuses on the practice of Data Science in the field of Educational Assessment, Health Care, Marketing, Advertising and Social Media
-    - Course deals with skills like Data analysis, Machine learning, Featuring Engineering and Interpreting & Communicating results.
-    - Responsibilities include evaluating assignments & projects and providing guidance to graduate students.
-- layout: left
-  company: Micro Focus
-  link: https://www.microfocus.com
-  jobs:
-    - title: Software Engineer
-      dates: Sept 2016 - Sept 2017
-  description: | # this will include new lines to allow paragraphs
-    - Designed, tested and automated APIs for providing data analytics insights into software security compliance and risk data for a datacenter automation Software
-    - Implemented the software using python programing on kubernetes technology
-    - Won 2nd place in a site wide hackathon conducted by Hewlett Packard Enterprise by designing a ‘Docker and Kubernetes log monitoring Solution’
-    - Technologies: Kubernetes, Docker, Python
-- layout: left
-  company: Hewlett Packard Enterprise
-  link: https://www.hpe.com
-  jobs:
-    - title: Software Engineer
-      dates: Sept 2016 - Sept 2017
-  description: | # this will include new lines to allow paragraphs
-    - Spin merged into Micro Focus in September 2017
