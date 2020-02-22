@@ -65,3 +65,28 @@
     - Stock Analysis and Time Series Analysis
     - Building Hybrid Machine Learning and Deep Learning based forecasting model
     - Integration of a Data Visualization and Reporting with Process Work Flow.
+- layout: left
+  company: Sancoj
+  jobs:
+    - title: AI Developer
+      dates: Mar 2018 - Nov 2019
+  description: | # this will include new lines to allow paragraphs
+    Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence using transfer Learning and Natural language Processing.
+- layout: left
+  company: MathLogic
+  jobs:
+    - title: Data Science Analyst
+      dates: Jun 2017 - Mar 2018
+  description: | # this will include new lines to allow paragraphs
+    - Data Insights and Reporting over multiple sources of data using Postgre SQL and Report Server.
+    - Daily Scripts / APIs / Services for reporting mails and alerts for all Google ODK for AUSFB - Insurance Data.
+    - Data Visualizations for Data Analytics across all verticals using Tableau
+    - Order flow management to reduce process flow time between various components of Data pipeline.
+    - Learning Module Development for Deep Learning (Keras+Tensorflow)
+
+- layout: left
+  company: SIBIA Analytics
+  job_title: Data Science Intern
+  dates: January 2017 - February 2017
+  description: | # this will include new lines to allow paragraphs
+    As an intern Data Analyst in SIBIA, I worked with data to extract insight, meaning and models, using a battery of statistical and machine learning techniques. My role was to provide machine learning support and data warehousing and summarizing, to help inform and validate.
