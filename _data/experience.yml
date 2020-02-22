@@ -10,7 +10,7 @@
 - layout: left
   company: Freelance Consultant
   job_title: Data Scientist
-  link: https://www.freelancer.com/u/shivampanchal
+  #link: https://www.freelancer.com/u/shivampanchal
   dates: July 2018 - November 2019
   quote: >
    The only limit to AI is human imagination
@@ -26,30 +26,25 @@
      - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
 
 
-     Provided, Data Analytics Consultancy for firms like
+     Provided, Data Analytics Consultancy for firms like >
 
      - Client - Hour One Media LLC, US
      - Social Media and Customer Sentiment Survey Tool
      - Brand Comparison and Brand Analysis
-
      - Client - S1 Bit
      - Building a Stock Trading Platform
      - Stock Market Analysis and Stock Forecasting
      - Machine Learning and Deep Learning Based Hybrid Forecasting Models
-
      - Client - PAM's Auto
      - Price Prediction Model and Forecast
      - Machine Learning, Deep Learning and Statistical Analysis
-
      - Client - The Pittman Group
      - Data Visualizations and Analytics
      - Reporting And Dashboarding, Automatic Report Generation
      - Tableau
-
      - Client - Sancoj
      - Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence.
      - ETL, Natural Language Processing, Deep Learning
-
      - Client - GLS
      - Deep Learning based Forecasting Models, Churn Prediction
      - Chat bots and Natural Language Processing
@@ -57,7 +52,7 @@
      - Comprehensive Database Management and Data Migration
      - Business Development 
 - layout: left
-  company: SBit
+  company: S1Bit
   jobs:
     - title: Data Scientist
       dates: Sep 2018 - Nov 2019
