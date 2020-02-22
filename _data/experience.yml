@@ -3,8 +3,6 @@
   jobs:
     - title: Data Scientist
       dates: September 2018 - November 2019
-      quote: >
-        "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*"
       description: | # this will include new lines to allow paragraphs
         I am engaged in the following technologies as part of my responsibilities.
         - Deep Learning based Forecasting Models, Churn Prediction.
