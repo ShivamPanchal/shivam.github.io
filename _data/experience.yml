@@ -1,19 +1,10 @@
 - layout: left
-  company: GLS
-  jobs:
-    - title: Data Scientist
-      dates: Sep 2018 - Nov 2019
-  description: | # this will include new lines to allow paragraphs
-    - Deep Learning based Forecasting Models, Churn Prediction
-    - Chat bots and Natural Language Processing
-    - Integration of a Data Visualization and Reporting with Process Work Flow.
-- layout: left
   company: Freelance Consultant
   job_title: Data Scientist
   #link: https://www.freelancer.com/u/shivampanchal
   dates: July 2018 - November 2019
   description: | # this will include new lines to allow paragraphs
-   I worked across various domains such as Banking, Finance, Healthcare and Telecom working with various Start-ups and Individual Clients
+   I worked across various domains such as **Banking, Finance, Healthcare and Telecom**, working with various Start-ups and Individual Clients
 
      - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
      - Extracting data from one or more sources for analysis.
@@ -26,29 +17,38 @@
 
      Provided, Data Analytics Consultancy for firms like
 
-     <h4> Client - **Hour One Media LLC**</h4>
+     <h6> Client - **Hour One Media LLC**</h6>
      - Social Media and Customer Sentiment Survey Tool
      - Brand Comparison and Brand Analysis
-     <h4>Client - **S1 Bit**</h4>
+     <h6>Client - **S1 Bit**</h6>
      - Building a Stock Trading Platform
      - Stock Market Analysis and Stock Forecasting
      - Machine Learning and Deep Learning Based Hybrid Forecasting Models
      <h4>Client - **PAM's Auto**</h4>
      - Price Prediction Model and Forecast
      - Machine Learning, Deep Learning and Statistical Analysis
-     <h4>Client - **The Pittman Group**</h4>
+     <h6>Client - **The Pittman Group**</h6>
      - Data Visualizations and Analytics
      - Reporting And Dashboarding, Automatic Report Generation
      - Tableau
-     <h4>Client - **Sancoj**</h4>
+     <h6>Client - Sancoj</h6>
      - Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence.
      - ETL, Natural Language Processing, Deep Learning</br>
-     </h4>Client - **GLS**</h4>
+     </h6>Client - GLS</h6>
      - Deep Learning based Forecasting Models, Churn Prediction
      - Chat bots and Natural Language Processing
      - Integration of a Data Visualization and Reporting with Process Work Flow.
      - Comprehensive Database Management and Data Migration
      - Business Development</br>
+- layout: left
+  company: GLS
+  jobs:
+    - title: Data Scientist
+      dates: Sep 2018 - Nov 2019
+  description: | # this will include new lines to allow paragraphs
+    - Deep Learning based Forecasting Models, Churn Prediction
+    - Chat bots and Natural Language Processing
+    - Integration of a Data Visualization and Reporting with Process Work Flow.
 - layout: left
   company: S1Bit
   jobs:
