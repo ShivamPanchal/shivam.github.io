@@ -17,42 +17,51 @@
   description: | # this will include new lines to allow paragraphs
    I worked across various domains such as Banking, Finance, Healthcare and Telecom working with various Start-ups and Individual Clients
 
-     • Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
-     • Extracting data from one or more sources for analysis.
-     • Working closely with cross functional teams to encourage statistical best practices with respect to experimental design and data analysis.
-     • Accomplished multiple tasks from collecting data to organizing data and helping in data-driven decision making.
-     • Implementing Machine Learning and Deep Learning algorithms for supervised and unsupervised learning.
-     • Build Machine learning and Deep Learning pipelines with end-to-end ETL processes with SQL/NoSQL databases.
-     • Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
+     - Involved in gathering requirements while uncovering and defining multiple dimensions of the Project.
+     - Extracting data from one or more sources for analysis.
+     - Working closely with cross functional teams to encourage statistical best practices with respect to experimental design and data analysis.
+     - Accomplished multiple tasks from collecting data to organizing data and helping in data-driven decision making.
+     - Implementing Machine Learning and Deep Learning algorithms for supervised and unsupervised learning.
+     - Build Machine learning and Deep Learning pipelines with end-to-end ETL processes with SQL/NoSQL databases.
+     - Provide consulting and advise clients on Advance Machine Learning and Deep learning solution implementation.
 
 
      Provided, Data Analytics Consultancy for firms like
 
-     o Client - Hour One Media LLC, US
-      Social Media and Customer Sentiment Survey Tool
-      Brand Comparison and Brand Analysis
+     - Client - Hour One Media LLC, US
+     - Social Media and Customer Sentiment Survey Tool
+     - Brand Comparison and Brand Analysis
 
-     o Client - S1 Bit
-      Building a Stock Trading Platform
-      Stock Market Analysis and Stock Forecasting
-      Machine Learning and Deep Learning Based Hybrid Forecasting Models
+     - Client - S1 Bit
+     - Building a Stock Trading Platform
+     - Stock Market Analysis and Stock Forecasting
+     - Machine Learning and Deep Learning Based Hybrid Forecasting Models
 
-     o Client - PAM's Auto
-      Price Prediction Model and Forecast
-      Machine Learning, Deep Learning and Statistical Analysis
+     - Client - PAM's Auto
+     - Price Prediction Model and Forecast
+     - Machine Learning, Deep Learning and Statistical Analysis
 
-     o Client - The Pittman Group
-      Data Visualizations and Analytics
-      Reporting And Dashboarding, Automatic Report Generation
-      Tableau
+     - Client - The Pittman Group
+     - Data Visualizations and Analytics
+     - Reporting And Dashboarding, Automatic Report Generation
+     - Tableau
 
-     o Client - Sancoj
-      Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence.
-      ETL, Natural Language Processing, Deep Learning
+     - Client - Sancoj
+     - Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence.
+     - ETL, Natural Language Processing, Deep Learning
 
-     o Client - GLS
-      Deep Learning based Forecasting Models, Churn Prediction
-      Chat bots and Natural Language Processing
-      Integration of a Data Visualization and Reporting with Process Work Flow.
-      Comprehensive Database Management and Data Migration
-      Business Development 
+     - Client - GLS
+     - Deep Learning based Forecasting Models, Churn Prediction
+     - Chat bots and Natural Language Processing
+     - Integration of a Data Visualization and Reporting with Process Work Flow.
+     - Comprehensive Database Management and Data Migration
+     - Business Development 
+- layout: left
+  company: SBit
+  jobs:
+    - title: Data Scientist
+      dates: Sep 2018 - Nov 2019
+  description: | # this will include new lines to allow paragraphs
+    - Stock Analysis and Time Series Analysis
+    - Building Hybrid Machine Learning and Deep Learning based forecasting model
+    - Integration of a Data Visualization and Reporting with Process Work Flow.
