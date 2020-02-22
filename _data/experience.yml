@@ -3,8 +3,6 @@
   jobs:
     - title: Data Scientist
       dates: Sep 2018 - Nov 2019
-  quote: >
-   The only limit to AI is human imagination
   description: | # this will include new lines to allow paragraphs
     - Deep Learning based Forecasting Models, Churn Prediction
     - Chat bots and Natural Language Processing
@@ -30,27 +28,27 @@
 
      Client - **Hour One Media LLC**
      - Social Media and Customer Sentiment Survey Tool
-     - Brand Comparison and Brand Analysis
+     - Brand Comparison and Brand Analysis</br>
      Client - **S1 Bit**
      - Building a Stock Trading Platform
      - Stock Market Analysis and Stock Forecasting
-     - Machine Learning and Deep Learning Based Hybrid Forecasting Models
+     - Machine Learning and Deep Learning Based Hybrid Forecasting Models</br>
      Client - **PAM's Auto**
      - Price Prediction Model and Forecast
-     - Machine Learning, Deep Learning and Statistical Analysis
+     - Machine Learning, Deep Learning and Statistical Analysis</br>
      Client - **The Pittman Group**
      - Data Visualizations and Analytics
      - Reporting And Dashboarding, Automatic Report Generation
-     - Tableau
+     - Tableau</br>
      Client - **Sancoj**
      - Worked on world's first opportunity supermarket built on the Ethereum Blockchain and powered by Artificial Intelligence.
-     - ETL, Natural Language Processing, Deep Learning
+     - ETL, Natural Language Processing, Deep Learning</br>
      Client - **GLS**
      - Deep Learning based Forecasting Models, Churn Prediction
      - Chat bots and Natural Language Processing
      - Integration of a Data Visualization and Reporting with Process Work Flow.
      - Comprehensive Database Management and Data Migration
-     - Business Development 
+     - Business Development</br>
 - layout: left
   company: S1Bit
   jobs:
