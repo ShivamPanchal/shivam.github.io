@@ -4,10 +4,9 @@
     - title: Data Scientist
       dates: September 2018 - November 2019
    description: | # this will include new lines to allow paragraphs
-     I am engaged in the following technologies as part of my responsibilities.
-     - Deep Learning based Forecasting Models, Churn Prediction.
-     - Chat bots and Natural Language Processing.
-     - Integration of a Data Visualization and Reporting with Process Work Flow.
+    - Deep Learning based Forecasting Models, Churn Prediction.
+    - Chat bots and Natural Language Processing.
+    - Integration of a Data Visualization and Reporting with Process Work Flow.
 - layout: left
   company: Freelance Consultant
   link: https://www.freelancer.com/u/shivampanchal
