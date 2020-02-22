@@ -16,11 +16,17 @@ linkedin_username: panchalshivam
 #download_resume: columbia.jpg
 
 about_title: About Me
-about_profile_image: ameya.PNG
+about_profile_image: ameya.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ameya Karnad, and I am a Gradute from Columbia University with a Master's in Data Science from the Data Science Institute.
+  Hi, I’m Shivam!
 
-  I am interested in the Applications of Data Science in the fields of technology, social sciences, public policy, political science and education
+  Bachelor of Technology from Harcourt Butler Technological Institute, Kanpur
+
+  I am a Data Science Consultant with three years of experience in Data Analysis & Visualization, Statistics, Machine Learning and Deep Learning, Computer Vision and Natural Language Processing.
+
+  I have worked across various domains such as Banking and Finance, Healthcare and Telecom.
+
+  I love to <mark>code</mark> and <mark>travel</mark>.
 
 experience_title: Experience #(Use this to override about experience section title)
 education_title: Education #(Use this to override about education section title)
