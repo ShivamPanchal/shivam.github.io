@@ -27,10 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 experience_title: Experience #(Use this to override about experience section title)
-
-![Tech Skills]({{site.url}}/techskill1.png)
-![]({{site.url}}/techskill2.png)
-![Soft Skills]({{site.url}}/softskills.png)
+skills_title: Skills
 
 #certificates_title: Certificates #(Use this to override about more section title)
 # more_content: | # this will include new lines to allow paragraphs
