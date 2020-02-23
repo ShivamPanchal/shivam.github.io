@@ -7,3 +7,10 @@
   name: Silver Bells Public School
   dates: 2010 - 2012
   qualification: Senior Secondary School
+  
+- layout: top
+  name: Skills
+
+![Tech Skills]({{site.url}}/techskill1.png)
+![]({{site.url}}/techskill2.png)
+![Soft Skills]({{site.url}}/softskills.png)
