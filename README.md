@@ -1,2 +1,0 @@
-# ameyakarnad.github.io
-Repository
