@@ -5,14 +5,12 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Shivam Panchal
 email: shivam.panchal@mail.com
-website: http://shivampanchal.github.io
+[Go back to Home](http://shivampanchal.github.io)
 
 # Social links
 twitter_username: reach_shivam
 github_username:  shivampanchal
 linkedin_username: panchalshivam
-#youtube_username: channel/UCL3yG9_j44it7tdOvRueeUg/playlists
-#download_resume: columbia.jpg
 
 about_title: About Me
 about_profile_image: ameya.jpg
@@ -29,10 +27,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 experience_title: Experience #(Use this to override about experience section title)
-education_title: Education #(Use this to override about education section title)
+#education_title: Education #(Use this to override about education section title)
 #projects_title: Projects
 
-certificates_title: Certificates #(Use this to override about more section title)
+#certificates_title: Certificates #(Use this to override about more section title)
 # more_content: | # this will include new lines to allow paragraphs
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
